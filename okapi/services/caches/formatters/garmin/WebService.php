@@ -11,7 +11,7 @@ use okapi\core\OkapiServiceRunner;
 use okapi\core\Request\OkapiInternalRequest;
 use okapi\core\Request\OkapiRequest;
 use okapi\lib\ClsTbsZip;
-use okapi\OkapiZIPHttpResponse;
+use okapi\core\Response\OkapiZIPHttpResponse;
 use okapi\Settings;
 
 class WebService

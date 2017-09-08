@@ -3,7 +3,7 @@
 namespace okapi\services\caches\formatters\ggz;
 
 use okapi\core\Request\OkapiRequest;
-use okapi\OkapiZIPHttpResponse;
+use okapi\core\Response\OkapiZIPHttpResponse;
 
 class WebService
 {
